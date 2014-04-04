@@ -17,10 +17,6 @@ msgstr ""
 msgid "Block Wrapper"
 msgstr ""
 
-#: ..//blocks/d3_block_wrapper/form.php:2 ..//controller.php:2
-msgid "Access Denied."
-msgstr ""
-
 #: ..//blocks/d3_block_wrapper/form.php:13
 msgid "Select template"
 msgstr ""

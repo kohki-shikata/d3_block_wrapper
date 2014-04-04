@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: D3AttributeBlock\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-15 14:53+0200\n"
-"PO-Revision-Date: 2013-04-15 14:56+0100\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-04-04 15:59+0100\n"
 "Last-Translator: Adri Kodde <adri@53gradennoord.nl>\n"
 "Language-Team: Adri Kodde\n"
 "Language: Dutch\n"
@@ -11,19 +11,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: Poedit 1.5.5\n"
 
 #: ..//blocks/d3_block_wrapper/controller.php:17
 msgid "Meant to wrap blocks in an HTML-element"
-msgstr "Bedoeld om andere blokken of elementen te 'wrappen'"
+msgstr "Bedoeld om andere blokken of elementen te 'wraken'"
 
 #: ..//blocks/d3_block_wrapper/controller.php:21 ..//controller.php:15
 msgid "Block Wrapper"
 msgstr "Block Wrapper"
-
-#: ..//blocks/d3_block_wrapper/form.php:2 ..//controller.php:2
-msgid "Access Denied."
-msgstr "Toegang geweigerd."
 
 #: ..//blocks/d3_block_wrapper/form.php:13
 msgid "Select template"
@@ -62,6 +58,9 @@ msgstr "Selecteer een template om het blok te openen of te sluiten"
 #: ..//controller.php:11
 msgid "Installs a block called 'Block Wrapper'"
 msgstr "Installeert een blok genaamd 'Block Wrapper'"
+
+#~ msgid "Access Denied."
+#~ msgstr "Toegang geweigerd."
 
 #~ msgid "No attributes have been selected for this page"
 #~ msgstr "Geen attributen zijn geselecteerd voor deze pagina"
