@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: D3AttributeBlock\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-15 14:53+0200\n"
+"PO-Revision-Date: 2013-04-15 14:56+0100\n"
+"Last-Translator: Adri Kodde <adri@53gradennoord.nl>\n"
+"Language-Team: Adri Kodde\n"
+"Language: Dutch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: ..//blocks/d3_block_wrapper/controller.php:17
+msgid "Meant to wrap blocks in an HTML-element"
+msgstr "Bedoeld om andere blokken of elementen te 'wrappen'"
+
+#: ..//blocks/d3_block_wrapper/controller.php:21 ..//controller.php:15
+msgid "Block Wrapper"
+msgstr "Block Wrapper"
+
+#: ..//blocks/d3_block_wrapper/form.php:2 ..//controller.php:2
+msgid "Access Denied."
+msgstr "Toegang geweigerd."
+
+#: ..//blocks/d3_block_wrapper/form.php:13
+msgid "Select template"
+msgstr "Selecteer template"
+
+#: ..//blocks/d3_block_wrapper/form.php:42
+msgid "Block Title (Optional)"
+msgstr "Blok titel (optioneel)"
+
+#: ..//blocks/d3_block_wrapper/form.php:50
+msgid "Extra CSS classes"
+msgstr "Extra CSS classes"
+
+#: ..//blocks/d3_block_wrapper/form.php:58
+msgid "Extra HTML attribute"
+msgstr "Extra HTML attribuut"
+
+#: ..//blocks/d3_block_wrapper/form.php:66
+msgid "Link to page"
+msgstr "Link naar pagina"
+
+#: ..//blocks/d3_block_wrapper/templates/close.php:7
+msgid "Close Wrapper"
+msgstr "Sluit Blok"
+
+#: ..//blocks/d3_block_wrapper/templates/open.php:7
+msgid "Open Wrapper"
+msgstr "Open Blok"
+
+#: ..//blocks/d3_block_wrapper/view.php:4
+msgid ""
+"Please select a custom template for this block to either open or close the "
+"wrapper"
+msgstr "Selecteer een template om het blok te openen of te sluiten"
+
+#: ..//controller.php:11
+msgid "Installs a block called 'Block Wrapper'"
+msgstr "Installeert een blok genaamd 'Block Wrapper'"
+
+#~ msgid "No attributes have been selected for this page"
+#~ msgstr "Geen attributen zijn geselecteerd voor deze pagina"
+
+#~ msgid "A block that allows you to view and edit page attributes"
+#~ msgstr ""
+#~ "Een blok dat je in staat stelt pagina attributen te tonen en te bewerken"
+
+#~ msgid "Attribute Block"
+#~ msgstr "Attribute Block"
+
+#~ msgid "Insufficient access rights to perform this operation"
+#~ msgstr "Onvoldoende rechten om deze opdracht uit te voeren"
+
+#~ msgid ""
+#~ "Attribute couldn't be loaded. Please remove the block and add it again"
+#~ msgstr ""
+#~ "Het attribuut kon niet worden geladen. Verwijder het blok en voeg het "
+#~ "opnieuw toe"
+
+#~ msgid "Click to edit '%s'"
+#~ msgstr "Bewerk '%s'"
+
+#~ msgid ""
+#~ "Error: Attribute couldn't be loaded. Please remove the block and add it "
+#~ "again"
+#~ msgstr ""
+#~ "Foutmelding: Attribuut kon niet worden geladen. Verwijder het blok en "
+#~ "voeg het opnieuw toe"
+
+#~ msgid ""
+#~ "Error: You should choose another template to display images, files, etc."
+#~ msgstr ""
+#~ "Foutmelding: Kies een andere template om bijvoorbeeld afbeeldingen of "
+#~ "bestanden te tonen."
+
+#~ msgid "Installs a custom block to view and edit page attributes"
+#~ msgstr ""
+#~ "Installeert een nieuw blok type om pagina attributen te tonen en bewerken"
