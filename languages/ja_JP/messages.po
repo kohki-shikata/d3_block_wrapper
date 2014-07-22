@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: d3_block_wrapper 1.2.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-04 14:07+0000\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.6.6\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja_JP\n"
+
+#: packages/d3_block_wrapper/blocks/d3_block_wrapper/controller.php:18
+msgid "Meant to wrap blocks in an HTML-element"
+msgstr "複数のブロックを、HTMLタグで括ります"
+
+#: packages/d3_block_wrapper/blocks/d3_block_wrapper/controller.php:22
+#: packages/d3_block_wrapper/controller.php:15
+msgid "Block Wrapper"
+msgstr "Block Wrapper\t"
+
+#: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:11
+msgid "Select template"
+msgstr "テンプレートを選択"
+
+#: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:42
+msgid "Block Title (Optional)"
+msgstr "ブロックのタイトル（オプション）"
+
+#: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:53
+msgid "Extra CSS classes"
+msgstr "CSSクラス（オプション）"
+
+#: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:64
+msgid "Extra HTML attribute"
+msgstr "HTML属性（オプション）"
+
+#: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:75
+msgid "Link to page"
+msgstr "ページへのリンク"
+
+#: packages/d3_block_wrapper/blocks/d3_block_wrapper/templates/close.php:7
+msgid "Close Wrapper"
+msgstr "終了タグ"
+
+#: packages/d3_block_wrapper/blocks/d3_block_wrapper/templates/open.php:13
+msgid "Open Wrapper"
+msgstr "開始タグ"
+
+#: packages/d3_block_wrapper/blocks/d3_block_wrapper/view.php:4
+msgid ""
+"Please select a custom template for this block to either open or close the "
+"wrapper"
+msgstr ""
+"このブロックに適用するカスタムテンプレート（開始タグ・終了タグ）を選択してく"
+"ださい。"
+
+#: packages/d3_block_wrapper/controller.php:11
+msgid "Installs a block called 'Block Wrapper'"
+msgstr "Block Wrapper をインストール"
+
+#: packages/d3_block_wrapper/blocks/d3_block_wrapper/templates/close.php
+msgctxt "TemplateFileName"
+msgid "Close"
+msgstr "終了タグ"
+
+#: packages/d3_block_wrapper/blocks/d3_block_wrapper/templates/open.php
+msgctxt "TemplateFileName"
+msgid "Open"
+msgstr "開始タグ"
