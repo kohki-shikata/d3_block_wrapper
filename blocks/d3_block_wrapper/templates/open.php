@@ -10,7 +10,7 @@ if(!empty($link_cID)){
 }
 
 if($c->isEditMode() OR $c->isAdminArea() OR strstr($_SERVER['REQUEST_URI'], 'edit_block_popup')){
-	echo '<div style="height: 20px; width: 100%;" class="d3-block-wrapper-open">'.t('Open Wrapper').'</div>';
+	echo '<div style="height: 20px; width: 100%;" class="d3-block-wrapper-open">'.t('Open Wrapper (&lt;div&gt;)').'</div>';
 } else {
 	echo '<div class="'.$css_classes.'" '.$html_attributes.' '.(isset($link) ? 'data-link="'.$link.'"' : '').'>';
 	
